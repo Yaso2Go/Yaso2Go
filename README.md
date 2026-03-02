@@ -1,35 +1,91 @@
-## Hi there! 👋 I'm Yassin Rakha
+# hey, I’m Yassin 👋
 
-### A little about me 👀
-- 💡 I’m a passionate developer and business enthusiast, always looking to innovate and push boundaries in both the tech and business worlds.
-- 💼 I’m currently a partner at **Start For Business Developments**, helping businesses grow in Oman and beyond.
-- 🎓 I’m an IGCSE student, with a goal of studying **Mechanical Engineering** at the GUC in Egypt.
-- 🚀 I’m also the founder of **Tokens United**, a company offering web development, hosting services, and business solutions.
-- 🧑‍🏫 I’m passionate about sharing knowledge and have led a computer club where I taught Python to both students and teachers.
-- 🎸 I’m a guitarist with an **Epiphone Studio LT** (Les Pauls are the best).
-- 🌍 I’m driven by my love for travel and new experiences, with Dubai being a transformative adventure for me.
-- 🛠 I’m always improving my skills, from developing AI models to working on an AI robot inspired by **TARS** from *Interstellar*.
+I like building things that probably shouldn’t be simple —  
+and then trying to make them make sense anyway.
 
-### 🌟 FUN FACTS
-- 🎥 **Favorite Movies:** *Interstellar*, *Inception*, *Shutter Island*, *The Fault in Our Stars*
-- 📺 **Favorite Show:** *Brooklyn 99* (Yes, I cried in the last episode!)
-- 💪 **Motivation:** Making my dad proud and building a future where I can provide for my family.
-- 🧳 **Love for Travel:** Dubai was transformative – ready for new adventures!
-- 🎸 **Music Inspiration:** *Cairokee* and Sherif El-Hawary always fuel my creative side.
+Most of what I do sits somewhere between **AI, systems design, and curiosity**.  
+I don’t really follow roadmaps. I follow obsessions.
 
-### 🛠 My Skills
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![LLaMA 2](https://img.shields.io/badge/-LLaMA_2-05122A?style=flat&logo=meta&logoColor=white)&nbsp;
+---
 
-## 🔗 Lets get in touch
-- **LinkedIn:** [Yassin's LinkedIn](https://www.linkedin.com/in/yassinrakha/)  
-- **Email:** [Yassin's Email Address](mailto:info@yassinrakha.com)  
-- **Website:** [Yassin's Website](https://yassinrakha.com) 
+## 🧠 what I keep coming back to
 
+- how memory *should* work (and why most systems get it wrong)
+- intelligence as a living process, not a database
+- architectures that age, decay, and evolve
+- building things that feel more *alive* than correct
+- turning abstract ideas into systems you can actually run
+
+I mostly build because it’s fun.  
+The fact that some of it ends up useful is a bonus.
+
+---
+
+## 🔬 things I’m building
+
+### **TBHP — The Binary Human Project**
+
+An open-source attempt to model cognition the way humans actually experience it:
+imperfectly, emotionally, and selectively.
+
+It explores ideas like:
+- memory that fades unless it matters
+- internal state influencing perception
+- personality as an emergent property
+- forgetting as a feature, not a bug
+
+TBHP exists because I couldn’t stop thinking about these things.  
+It’s research-y, unfinished by nature, and constantly evolving.
+
+---
+
+### **Tokens United**
+
+This is the more grounded side of what I do.
+
+Tokens United is where systems stop being philosophical and start paying rent:
+custom web platforms, clean architecture, and solutions that don’t collapse
+the moment a business grows.
+
+It’s less experimental, more practical —  
+but still built with the same obsession for structure and longevity.
+
+---
+
+## 🛠 how I usually build
+
+I spend most of my time thinking about **structure** before code.
+
+Tools change.  
+Patterns stay.
+
+That said, I usually reach for:
+- Python
+- Django
+- React
+- LLMs (local & hosted)
+- a lot of architecture diagrams that never see daylight
+
+---
+
+## 🌍 other things that leak into my work (i have a life other than being a developer)
+
+- 🎸 I am a guitarist (Les Pauls, obviously)
+- 🌊 I am an Advanced Scuba Diver (SS thislegorm shipwreck has got to be my favorite dive of all time)
+- ✈️ traveling, especially places that feel slightly unreal
+- 🎥 films that care more about ideas than explosions (*Interstellar* never leaves)
+
+All of it sneaks into how I design systems, whether I like it or not.
+
+---
+
+## 📬 if you’re curious
+
+If something here overlaps with what you’re thinking about,
+you can reach me at:
+
+- general stuff: **info@yassinrakha.com**
+- Tokens United: **tokensunited@yassinrakha.com**
+
+No pressure.  
+I’m probably building something either way.
